@@ -16,5 +16,6 @@ class Solution:
 
         return horizontal == 0 and vertical == 0
 
+
 s = Solution()
 print(s.judgeCircle("LDRRLRUULR"))
