@@ -2,7 +2,7 @@
 
 ## LeetCode Problems:
 
-### Arrays-Strings
+### Arrays & Strings
 | Name |  Solution |
 |---|----------------|
 [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)| [Link](https://github.com/dkarakay/interview/blob/main/leetcode/arrays-strings/boats_to_save_people.py)
@@ -19,3 +19,9 @@
 [Missing Number](https://leetcode.com/problems/missing-number/)|[Link](https://github.com/dkarakay/interview/blob/main/leetcode/math/missing_number.py)
 [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)| [Link](https://github.com/dkarakay/interview/blob/main/leetcode/math/robot_return_to_origin.py)
 [Single Number](https://leetcode.com/problems/count-primes/)|[Link](https://github.com/dkarakay/interview/blob/main/leetcode/math/single_number.py)
+
+## Algorithms
+| Name |  Solution |
+|---|----------------|
+[Binary Search](https://en.wikipedia.org/wiki/Binary_search_algorithm) | [Link](https://github.com/dkarakay/interview/blob/main/algorithms/binary_search.py) 
+[Sliding Window](https://www.geeksforgeeks.org/window-sliding-technique/) | [Link](https://github.com/dkarakay/interview/blob/main/algorithms/sliding_window.py) 
