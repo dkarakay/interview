@@ -15,7 +15,8 @@
 ### Maps
 | Name |  Solution |
 |---|----------------|
-[Two Sum](https://leetcode.com/problems/two-sum/)| [Link](https://github.com/dkarakay/interview/blob/main/leetcode/math/two_sum.py)
+[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)| [Link](https://github.com/dkarakay/interview/blob/main/leetcode/maps/contains_duplicate.py)
+[Two Sum](https://leetcode.com/problems/two-sum/)| [Link](https://github.com/dkarakay/interview/blob/main/leetcode/maps/two_sum.py)
 
 ### Math
 | Name |  Solution |
