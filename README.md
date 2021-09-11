@@ -10,7 +10,12 @@
 [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)| [Link](https://github.com/dkarakay/interview/blob/main/leetcode/arrays-strings/find_first_and_last_position_of_element_in_sorted_array.py)
 [First Bad Version](https://leetcode.com/problems/first-bad-version/)| [Link](https://github.com/dkarakay/interview/blob/main/leetcode/arrays-strings/first_bad_version.py)
 [Longest Substring without Repeating Elements](https://leetcode.com/problems/longest-substring-without-repeating-elements/)|[Link](https://github.com/dkarakay/interview/blob/main/leetcode/arrays-strings/longest_substring_without_repeating_elements.py)
-[Move Zeroes](https://leetcode.com/problems/missing-number/)|[Link](https://github.com/dkarakay/interview/blob/main/leetcode/arrays-strings/move_zeroes.py)
+[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Link](https://github.com/dkarakay/interview/blob/main/leetcode/arrays-strings/move_zeroes.py)
+
+### Maps
+| Name |  Solution |
+|---|----------------|
+[Two Sum](https://leetcode.com/problems/two-sum/)| [Link](https://github.com/dkarakay/interview/blob/main/leetcode/math/two_sum.py)
 
 ### Math
 | Name |  Solution |
