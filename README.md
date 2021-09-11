@@ -15,6 +15,7 @@
 ### Math
 | Name |  Solution |
 |---|----------------|
+[Add Binary](https://leetcode.com/problems/add-binary/)| [Link](https://github.com/dkarakay/interview/blob/main/leetcode/math/add_binary.py)
 [Count Primes](https://leetcode.com/problems/count-primes/)| [Link](https://github.com/dkarakay/interview/blob/main/leetcode/math/count_primes.py)
 [Missing Number](https://leetcode.com/problems/missing-number/)|[Link](https://github.com/dkarakay/interview/blob/main/leetcode/math/missing_number.py)
 [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)| [Link](https://github.com/dkarakay/interview/blob/main/leetcode/math/robot_return_to_origin.py)
