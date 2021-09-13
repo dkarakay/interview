@@ -16,6 +16,8 @@
 | Name |  Solution |
 |---|----------------|
 [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)| [Link](https://github.com/dkarakay/interview/blob/main/leetcode/maps/contains_duplicate.py)
+[Group Anagrams](https://leetcode.com/problems/group-anagrams/)| [Link](https://github.com/dkarakay/interview/blob/main/leetcode/maps/group_anagrams.py)
+[Majority Element](https://leetcode.com/problems/majority-element/)| [Link](https://github.com/dkarakay/interview/blob/main/leetcode/maps/majority_element.py)
 [Two Sum](https://leetcode.com/problems/two-sum/)| [Link](https://github.com/dkarakay/interview/blob/main/leetcode/maps/two_sum.py)
 
 ### Math
