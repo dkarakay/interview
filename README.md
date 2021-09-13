@@ -5,12 +5,12 @@
 ### Arrays & Strings
 | Name |  Solution | Level | Notes |
 |---|----------------|---|---|
-[Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)| [Link](https://github.com/dkarakay/interview/blob/main/leetcode/arrays-strings/boats_to_save_people.py)
-[Container with Most Water](https://leetcode.com/problems/container-with-most-water/)| [Link](https://github.com/dkarakay/interview/blob/main/leetcode/arrays-strings/container_with_most_water.py)
-[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)| [Link](https://github.com/dkarakay/interview/blob/main/leetcode/arrays-strings/find_first_and_last_position_of_element_in_sorted_array.py)
-[First Bad Version](https://leetcode.com/problems/first-bad-version/)| [Link](https://github.com/dkarakay/interview/blob/main/leetcode/arrays-strings/first_bad_version.py)
-[Longest Substring without Repeating Elements](https://leetcode.com/problems/longest-substring-without-repeating-elements/)|[Link](https://github.com/dkarakay/interview/blob/main/leetcode/arrays-strings/longest_substring_without_repeating_elements.py)
-[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Link](https://github.com/dkarakay/interview/blob/main/leetcode/arrays-strings/move_zeroes.py)
+[Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)| [Link](https://github.com/dkarakay/interview/blob/main/leetcode/arrays-strings/boats_to_save_people.py) | Medium | Sort the list and check elements from the beginning and end
+[Container with Most Water](https://leetcode.com/problems/container-with-most-water/)| [Link](https://github.com/dkarakay/interview/blob/main/leetcode/arrays-strings/container_with_most_water.py) | Medium | Finding max area by checking elements from two sides of array. max(temp,max_area). If height[left] < height [right] increase left
+[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)| [Link](https://github.com/dkarakay/interview/blob/main/leetcode/arrays-strings/find_first_and_last_position_of_element_in_sorted_array.py) | Medium | Write two functions one for finding first pos, other one is for finding last pos. Use binary search
+[First Bad Version](https://leetcode.com/problems/first-bad-version/)| [Link](https://github.com/dkarakay/interview/blob/main/leetcode/arrays-strings/first_bad_version.py) | Easy | Sorted array find value just like binary search
+[Longest Substring without Repeating Elements](https://leetcode.com/problems/longest-substring-without-repeating-elements/)|[Link](https://github.com/dkarakay/interview/blob/main/leetcode/arrays-strings/longest_substring_without_repeating_elements.py) | Medium | Use two pointers and dict
+[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Link](https://github.com/dkarakay/interview/blob/main/leetcode/arrays-strings/move_zeroes.py) | Easy | Two for loops; one of them is for overwriting all elements by non-zero elements, the other one is for adding zeroes
 
 ### Maps
 | Name |  Solution | Level | Notes |
@@ -34,5 +34,5 @@
 ## Algorithms
 | Name |  Example | Notes |
 |---|----------------|---|
-[Binary Search](https://en.wikipedia.org/wiki/Binary_search_algorithm) | [Link](https://github.com/dkarakay/interview/blob/main/algorithms/binary_search.py) 
+[Binary Search](https://en.wikipedia.org/wiki/Binary_search_algorithm) | [Link](https://github.com/dkarakay/interview/blob/main/algorithms/binary_search.py) | Must be sorted, Divide the array by 2 and iterate
 [Sliding Window](https://www.geeksforgeeks.org/window-sliding-technique/) | [Link](https://github.com/dkarakay/interview/blob/main/algorithms/sliding_window.py) 
