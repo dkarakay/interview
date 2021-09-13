@@ -25,11 +25,11 @@
 ### Math
 | Name |  Solution | Level | Notes |
 |---|----------------|---|---|
-[Add Binary](https://leetcode.com/problems/add-binary/)| [Link](https://github.com/dkarakay/interview/blob/main/leetcode/math/add_binary.py)
-[Count Primes](https://leetcode.com/problems/count-primes/)| [Link](https://github.com/dkarakay/interview/blob/main/leetcode/math/count_primes.py)
-[Missing Number](https://leetcode.com/problems/missing-number/)|[Link](https://github.com/dkarakay/interview/blob/main/leetcode/math/missing_number.py)
-[Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)| [Link](https://github.com/dkarakay/interview/blob/main/leetcode/math/robot_return_to_origin.py)
-[Single Number](https://leetcode.com/problems/count-primes/)|[Link](https://github.com/dkarakay/interview/blob/main/leetcode/math/single_number.py)
+[Add Binary](https://leetcode.com/problems/add-binary/)| [Link](https://github.com/dkarakay/interview/blob/main/leetcode/math/add_binary.py) | Medium | Check binary rules
+[Count Primes](https://leetcode.com/problems/count-primes/)| [Link](https://github.com/dkarakay/interview/blob/main/leetcode/math/count_primes.py) | Easy | Boolean array, iterate 2..sqrt(2) and set n*n
+[Missing Number](https://leetcode.com/problems/missing-number/)|[Link](https://github.com/dkarakay/interview/blob/main/leetcode/math/missing_number.py)| Easy | (n * (n + 1))/ 2
+[Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)| [Link](https://github.com/dkarakay/interview/blob/main/leetcode/math/robot_return_to_origin.py) | Easy | Calculate X & Y coordinate seperately
+[Single Number](https://leetcode.com/problems/count-primes/)|[Link](https://github.com/dkarakay/interview/blob/main/leetcode/math/single_number.py) | Easy | Use sets, subtract 2*(set_version) from original one
 
 ## Algorithms
 | Name |  Example | Notes |
