@@ -13,6 +13,12 @@
 [Longest Substring without Repeating Elements](https://leetcode.com/problems/longest-substring-without-repeating-elements/)|[Link](https://github.com/dkarakay/interview/blob/main/leetcode/arrays-strings/longest_substring_without_repeating_elements.py) | Medium | Use two pointers and dict
 [Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Link](https://github.com/dkarakay/interview/blob/main/leetcode/arrays-strings/move_zeroes.py) | Easy | Two for loops; one of them is for overwriting all elements by non-zero elements, the other one is for adding zeroes
 
+### Linked Lists
+
+| Name |  Solution | Level | Notes |
+|---|----------------|---|---|
+[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)| [Link](https://github.com/dkarakay/interview/blob/main/leetcode/maps/merge-two-sorted-lists.py)| Easy | Compare two elements at the same time, add rest of them
+
 ### Maps
 
 | Name |  Solution | Level | Notes |
@@ -38,7 +44,7 @@
 
 | Name |  Example | Notes |
 |---|----------------|---|
-[Doubly Linked List](https://www.geeksforgeeks.org/data-structures/linked-list/doubly-linked-list/) | [Link](https://github.com/dkarakay/interview/blob/main/data-structures/doubly_linked_list.py) | Next and previous 
+[Doubly Linked List](https://www.geeksforgeeks.org/data-structures/linked-list/doubly-linked-list/) | [Link](https://github.com/dkarakay/interview/blob/main/data-structures/doubly_linked_list.py) | Next and previous
 [Singly Linked List](https://www.geeksforgeeks.org/data-structures/linked-list/singly-linked-list/) | [Link](https://github.com/dkarakay/interview/blob/main/data-structures/singly_linked_list.py) | Only next Insertion & Deletion O(1)
 
 ## Algorithms
