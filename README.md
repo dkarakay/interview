@@ -3,6 +3,7 @@
 ## LeetCode Problems:
 
 ### Arrays & Strings
+
 | Name |  Solution | Level | Notes |
 |---|----------------|---|---|
 [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)| [Link](https://github.com/dkarakay/interview/blob/main/leetcode/arrays-strings/boats_to_save_people.py) | Medium | Sort the list and check elements from the beginning and end
@@ -13,6 +14,7 @@
 [Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Link](https://github.com/dkarakay/interview/blob/main/leetcode/arrays-strings/move_zeroes.py) | Easy | Two for loops; one of them is for overwriting all elements by non-zero elements, the other one is for adding zeroes
 
 ### Maps
+
 | Name |  Solution | Level | Notes |
 |---|----------------|---|---|
 [4Sum II](https://leetcode.com/problems/4sum-ii/)| [Link](https://github.com/dkarakay/interview/blob/main/leetcode/maps/4sum_ii.py)| Medium | The first two elements' sum must equal to (-1) of last two elements' sum
@@ -23,6 +25,7 @@
 [Two Sum](https://leetcode.com/problems/two-sum/)| [Link](https://github.com/dkarakay/interview/blob/main/leetcode/maps/two_sum.py) | Medium | Use remaining as a key
 
 ### Math
+
 | Name |  Solution | Level | Notes |
 |---|----------------|---|---|
 [Add Binary](https://leetcode.com/problems/add-binary/)| [Link](https://github.com/dkarakay/interview/blob/main/leetcode/math/add_binary.py) | Medium | Check binary rules
@@ -31,7 +34,15 @@
 [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)| [Link](https://github.com/dkarakay/interview/blob/main/leetcode/math/robot_return_to_origin.py) | Easy | Calculate X & Y coordinate seperately
 [Single Number](https://leetcode.com/problems/count-primes/)|[Link](https://github.com/dkarakay/interview/blob/main/leetcode/math/single_number.py) | Easy | Use sets, subtract 2*(set_version) from original one
 
+## Data Structures
+
+| Name |  Example | Notes |
+|---|----------------|---|
+[Doubly Linked List](https://en.wikipedia.org/wiki/Binary_search_algorithm) | [Link](https://github.com/dkarakay/interview/blob/main/data-structures/doubly_linked_list.py) | Insertion & Deletion O(N)
+[Singly Linked List](https://en.wikipedia.org/wiki/Binary_search_algorithm) | [Link](https://github.com/dkarakay/interview/blob/main/data-structures/singly_linked_list.py) | Insertion & Deletion O(N)
+
 ## Algorithms
+
 | Name |  Example | Notes |
 |---|----------------|---|
 [Binary Search](https://en.wikipedia.org/wiki/Binary_search_algorithm) | [Link](https://github.com/dkarakay/interview/blob/main/algorithms/binary_search.py) | Must be sorted, Divide the array by 2 and iterate
