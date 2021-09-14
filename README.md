@@ -38,8 +38,8 @@
 
 | Name |  Example | Notes |
 |---|----------------|---|
-[Doubly Linked List](https://en.wikipedia.org/wiki/Binary_search_algorithm) | [Link](https://github.com/dkarakay/interview/blob/main/data-structures/doubly_linked_list.py) | Insertion & Deletion O(N)
-[Singly Linked List](https://en.wikipedia.org/wiki/Binary_search_algorithm) | [Link](https://github.com/dkarakay/interview/blob/main/data-structures/singly_linked_list.py) | Insertion & Deletion O(N)
+[Doubly Linked List](https://www.geeksforgeeks.org/data-structures/linked-list/doubly-linked-list/) | [Link](https://github.com/dkarakay/interview/blob/main/data-structures/doubly_linked_list.py) | Insertion & Deletion O(N)
+[Singly Linked List](https://www.geeksforgeeks.org/data-structures/linked-list/singly-linked-list/) | [Link](https://github.com/dkarakay/interview/blob/main/data-structures/singly_linked_list.py) | Insertion & Deletion O(N)
 
 ## Algorithms
 
