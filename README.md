@@ -17,7 +17,8 @@
 
 | Name |  Solution | Level | Notes |
 |---|----------------|---|---|
-[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)| [Link](https://github.com/dkarakay/interview/blob/main/leetcode/maps/merge-two-sorted-lists.py)| Easy | Compare two elements at the same time, add rest of them
+[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)| [Link](https://github.com/dkarakay/interview/blob/main/leetcode/maps/linked_list_cycle.py)| Easy | Initialize two pointers, move one of them by 1, other one by 2. If there is a cycle, eventually those two pointers show the same value.
+[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)| [Link](https://github.com/dkarakay/interview/blob/main/leetcode/maps/merge_two_sorted_lists.py)| Easy | Compare two elements at the same time, add rest of them
 
 ### Maps
 
