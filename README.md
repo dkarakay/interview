@@ -17,9 +17,10 @@
 
 | Name |  Solution | Level | Notes |
 |---|----------------|---|---|
-[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)| [Link](https://github.com/dkarakay/interview/blob/main/leetcode/maps/linked_list_cycle.py)| Easy | Initialize two pointers, move one of them by 1, other one by 2. If there is a cycle, eventually those two pointers show the same value.
-[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)| [Link](https://github.com/dkarakay/interview/blob/main/leetcode/maps/merge_two_sorted_lists.py)| Easy | Compare two elements at the same time, add rest of them
-[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)| [Link](https://github.com/dkarakay/interview/blob/main/leetcode/maps/reverse_linked_list.py)| Easy | Utilize iteration method to reverse linked list. Use three pointers prev,head and next and change head's next position to prev and update each element's place.
+[Add Two Numbers](https://leetcode.com/problems/add-two-numbers)| [Link](https://github.com/dkarakay/interview/blob/main/leetcode/linked/add_two_numbers.py)| Medium | Estimate depth, calculate number itself, sum them up, return -1. Use carry approach simple, easy
+[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)| [Link](https://github.com/dkarakay/interview/blob/main/leetcode/linked/linked_list_cycle.py)| Easy | Initialize two pointers, move one of them by 1, other one by 2. If there is a cycle, eventually those two pointers show the same value.
+[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)| [Link](https://github.com/dkarakay/interview/blob/main/leetcode/linked/merge_two_sorted_lists.py)| Easy | Compare two elements at the same time, add rest of them
+[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)| [Link](https://github.com/dkarakay/interview/blob/main/leetcode/linked-lists/reverse_linked_list.py)| Easy | Utilize iteration method to reverse linked list. Use three pointers prev,head and next and change head's next position to prev and update each element's place.
 
 ### Maps
 
