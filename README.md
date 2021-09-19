@@ -31,7 +31,7 @@
 [Group Anagrams](https://leetcode.com/problems/group-anagrams/)| [Link](https://github.com/dkarakay/interview/blob/main/leetcode/maps/group_anagrams.py) | Medium | Sort strings and use them as keys
 [LRU Cache](https://leetcode.com/problems/lru-cache/)| [Link](https://github.com/dkarakay/interview/blob/main/leetcode/maps/lru_cache.py) | Hard | Use Deque and Map to find solution
 [Majority Element](https://leetcode.com/problems/majority-element/)| [Link](https://github.com/dkarakay/interview/blob/main/leetcode/maps/majority_element.py) | Easy | Count the occurrence of items solve the question
-[Two Sum](https://leetcode.com/problems/two-sum/)| [Link](https://github.com/dkarakay/interview/blob/main/leetcode/maps/two_sum.py) | Medium | Use remaining as a key
+[Two Sum](https://leetcode.com/problems/two-sum/)| [Link](https://github.com/dkarakay/interview/blob/main/leetcode/maps/two_sum.py) | Medium | Use remaining  number as a key. If you need to have 9, check remaining values 7,5,3 for 2,4,6 respectively. If you find the same remaining value in your list, you are done.
 
 ### Math
 
