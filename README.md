@@ -17,8 +17,12 @@
 
 | Name |  Solution | Level | Notes |
 |---|----------------|---|---|
-[Add Two Numbers](https://leetcode.com/problems/add-two-numbers)| [Link](https://github.com/dkarakay/interview/blob/main/leetcode/linked/add_two_numbers.py)| Medium | Estimate depth, calculate number itself, sum them up, return -1. Use carry approach simple, easy. [_My explanation on Leetcode_](https://leetcode.com/problems/add-two-numbers/discuss/1472944/Python-3-or-Faster-than-90-or-Elegant-and-simple-approach)
-[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)| [Link](https://github.com/dkarakay/interview/blob/main/leetcode/linked/linked_list_cycle.py)| Easy | Initialize two pointers, move one of them by 1, other one by 2. If there is a cycle, eventually those two pointers show the same value. Tortoise & Hare, Floyd's algorithm [_My explanation on Leetcode_](https://leetcode.com/problems/linked-list-cycle/discuss/1472834/python-3-tortoise-hare-easy)
+[Add Two Numbers](https://leetcode.com/problems/add-two-numbers)| [Link](https://github.com/dkarakay/interview/blob/main/leetcode/linked/add_two_numbers.py)| Medium | Estimate depth, calculate number itself, sum them up, return -1. Use carry approach simple, easy. [_
+My explanation on
+Leetcode_](https://leetcode.com/problems/add-two-numbers/discuss/1472944/Python-3-or-Faster-than-90-or-Elegant-and-simple-approach)
+[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)| [Link](https://github.com/dkarakay/interview/blob/main/leetcode/linked/linked_list_cycle.py)| Easy | Initialize two pointers, move one of them by 1, other one by 2. If there is a cycle, eventually those two pointers show the same value. Tortoise & Hare, Floyd's algorithm [_
+My explanation on
+Leetcode_](https://leetcode.com/problems/linked-list-cycle/discuss/1472834/python-3-tortoise-hare-easy)
 [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)| [Link](https://github.com/dkarakay/interview/blob/main/leetcode/linked/merge_two_sorted_lists.py)| Easy | Compare two elements at the same time, add rest of them
 [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)| [Link](https://github.com/dkarakay/interview/blob/main/leetcode/linked-lists/reverse_linked_list.py)| Easy | Utilize iteration method to reverse linked list. Use three pointers prev,head and next and change head's next position to prev and update each element's place.
 
@@ -27,7 +31,9 @@
 | Name |  Solution | Level | Notes |
 |---|----------------|---|---|
 [4Sum II](https://leetcode.com/problems/4sum-ii/)| [Link](https://github.com/dkarakay/interview/blob/main/leetcode/maps/4sum_ii.py)| Medium | The first two elements' sum must equal to (-1) of last two elements' sum
-[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)| [Link](https://github.com/dkarakay/interview/blob/main/leetcode/maps/contains_duplicate.py) | Easy | Sets. [_My explanation on Leetcode_](https://leetcode.com/problems/contains-duplicate/discuss/1457561/python-one-line-solution-easy)
+[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)| [Link](https://github.com/dkarakay/interview/blob/main/leetcode/maps/contains_duplicate.py) | Easy | Sets. [_
+My explanation on
+Leetcode_](https://leetcode.com/problems/contains-duplicate/discuss/1457561/python-one-line-solution-easy)
 [Group Anagrams](https://leetcode.com/problems/group-anagrams/)| [Link](https://github.com/dkarakay/interview/blob/main/leetcode/maps/group_anagrams.py) | Medium | Sort strings and use them as keys
 [LRU Cache](https://leetcode.com/problems/lru-cache/)| [Link](https://github.com/dkarakay/interview/blob/main/leetcode/maps/lru_cache.py) | Hard | Use Deque and Map to find solution
 [Majority Element](https://leetcode.com/problems/majority-element/)| [Link](https://github.com/dkarakay/interview/blob/main/leetcode/maps/majority_element.py) | Easy | Count the occurrence of items solve the question
@@ -42,6 +48,16 @@
 [Missing Number](https://leetcode.com/problems/missing-number/)|[Link](https://github.com/dkarakay/interview/blob/main/leetcode/math/missing_number.py)| Easy | (n * (n + 1))/ 2
 [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)| [Link](https://github.com/dkarakay/interview/blob/main/leetcode/math/robot_return_to_origin.py) | Easy | Calculate X & Y coordinate seperately
 [Single Number](https://leetcode.com/problems/count-primes/)|[Link](https://github.com/dkarakay/interview/blob/main/leetcode/math/single_number.py) | Easy | Use sets, subtract 2*(set_version) from original one
+
+## inzva
+
+### Algorithm Training Beginner Set
+
+| Problem & Solution  |
+|---|
+|[Ice Cream Yum Yum](https://github.com/dkarakay/interview/blob/main/inzva/algorithm-training-beginner-set/ice_cream_yum_yum.py)|
+|[Stringer Things](https://github.com/dkarakay/interview/blob/main/inzva/algorithm-training-beginner-set/stringer_things.py)|
+|[Usain Bolt](https://github.com/dkarakay/interview/blob/main/inzva/algorithm-training-beginner-set/usain_bolt.py)|
 
 ## Data Structures
 
