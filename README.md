@@ -53,6 +53,7 @@
 |[Harun & Sami](https://github.com/dkarakay/interview/blob/main/inzva/algorithm-training-beginner-set/harun_sami.py)|
 |[Hopscotch](https://github.com/dkarakay/interview/blob/main/inzva/algorithm-training-beginner-set/hopscotch.py)|
 |[Stringer Things](https://github.com/dkarakay/interview/blob/main/inzva/algorithm-training-beginner-set/stringer_things.py)|
+|[Stickers](https://github.com/dkarakay/interview/blob/main/inzva/algorithm-training-beginner-set/stickers.py)|
 |[Usain Bolt](https://github.com/dkarakay/interview/blob/main/inzva/algorithm-training-beginner-set/usain_bolt.py)|
 |[The Pit](https://github.com/dkarakay/interview/blob/main/inzva/algorithm-training-beginner-set/the_pit.py)|
 
