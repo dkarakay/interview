@@ -52,6 +52,7 @@
 |[Ice Cream Yum Yum](https://github.com/dkarakay/interview/blob/main/inzva/algorithm-training-beginner-set/ice_cream_yum_yum.py)|
 |[Harun & Sami](https://github.com/dkarakay/interview/blob/main/inzva/algorithm-training-beginner-set/harun_sami.py)|
 |[Hopscotch](https://github.com/dkarakay/interview/blob/main/inzva/algorithm-training-beginner-set/hopscotch.py)|
+|[Merge Sort](https://github.com/dkarakay/interview/blob/main/inzva/algorithm-training-beginner-set/merge_sort.py)|
 |[Stringer Things](https://github.com/dkarakay/interview/blob/main/inzva/algorithm-training-beginner-set/stringer_things.py)|
 |[Stickers](https://github.com/dkarakay/interview/blob/main/inzva/algorithm-training-beginner-set/stickers.py)|
 |[Usain Bolt](https://github.com/dkarakay/interview/blob/main/inzva/algorithm-training-beginner-set/usain_bolt.py)|
