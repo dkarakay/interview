@@ -19,7 +19,6 @@ step = int(input_l[1])
 while step >= (n - 1) * 2:
     step -= (n - 1) * 2
 
-# print(step)
 mod = step % ((n - 1) * 2)
 if mod == 0:
     mod = ((n - 1) * 2)
