@@ -45,10 +45,11 @@
 
 ## inzva
 
-### Algorithm Training Beginner Set
+### Algorithm Training Beginner Set [[Official solutions]](https://www.youtube.com/playlist?list=PLhnxo6HZwBglbALWurJhkVMCGkgtamhXj)
 
 | Problem & Solution  |
 |---|
+|[Easy Magic Trick](https://github.com/dkarakay/interview/blob/main/inzva/algorithm-training-beginner-set/easy_magic_trick.py)|
 |[Ice Cream Yum Yum](https://github.com/dkarakay/interview/blob/main/inzva/algorithm-training-beginner-set/ice_cream_yum_yum.py)|
 |[Harun & Sami](https://github.com/dkarakay/interview/blob/main/inzva/algorithm-training-beginner-set/harun_sami.py)|
 |[Hopscotch](https://github.com/dkarakay/interview/blob/main/inzva/algorithm-training-beginner-set/hopscotch.py)|
